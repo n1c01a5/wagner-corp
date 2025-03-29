@@ -61,7 +61,4 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 If you have any questions about this privacy policy, please contact us at:
 
-- Email: privacy@wagner-corp.example.com
-- WhatsApp: +XX-XXX-XXX-XXXX
-
-Last updated: March 29, 2025
+- Email: contact@wagner-nicolas.com
